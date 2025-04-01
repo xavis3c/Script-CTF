@@ -12,7 +12,6 @@ Este script está diseñado para organizar las capturas de pantalla de los CTF q
    - Te pedirá el nombre de la carpeta que creaste en **Descargas**.
    - Luego, te preguntará sobre la dificultad de la máquina (Muy fácil, Fácil, Medio, Difícil).
    - El script moverá la carpeta con las capturas de **Descargas** a **Documentos** > **Maquinas DockerLabs** > a la subcarpeta correspondiente según la dificultad.<br/>
-   OJO: Ya se tiene previamente echas las carpetas de todo, solo se hacen una vez y a correr el script (;
 
 ## Instalación
 
