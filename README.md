@@ -44,10 +44,12 @@ ingresamos el nombre de la carpeta que en este caso usamos un "carpeta-ejemplo"
 
 
 ![dificultad-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/movimiento-crf.png)
+
 Seleccionamos la dificultad de la maquina que previamente realizamos y listo.
 
 
-![movimiento-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/carpeta-movida-ctf.png)
+![movimiento-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/carpeta-movida-ctf.png) 
+
 Tenemos organizado nuestros CTFs.
 
 
