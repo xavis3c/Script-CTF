@@ -1,5 +1,18 @@
 #!/bin/bash
 
+# Establecer color tinto
+color="\e[38;2;119;46;46m"  # Color tinto
+reset="\e[0m"
+
+# Mostrar banner con figlet usando la fuente 'big'
+printf "${color}"
+figlet -f big "CTF Organizer by: Xavis3c"
+printf "${reset}"
+
+
+# Script
+
+
 # Directorio base donde están las máquinas dockerlsbs
 BASE_DIR="$HOME/Documentos/MAQUINAS-DockerLabs"
 DESCARGAS="$HOME/Descargas"
