@@ -1,5 +1,8 @@
 
-#  🎮 CTF Screenshot Organizer
+#  🖥️ CTF Screenshot Organizer
+
+![ctf](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/ctf-organizer-xavi.png)
+
 
 Este script está diseñado para organizar las capturas de pantalla de los CTF que realizas en DockerLabs o la plataforma que desees. El script mueve las capturas desde tu carpeta **Descargas** a **Documentos**, organizándolas en una estructura de carpetas basada en la dificultad de la máquina (Muy fácil, Fácil, Medio, Difícil).
 
@@ -36,15 +39,16 @@ La dificultad del CTF (Muy fácil, Fácil, Medio, Difícil).<br/>
 Las capturas se moverán automáticamente a la carpeta correspondiente dentro de Documentos > Maquinas DockerLabs > la subcarpeta de dificultad.
 
 ## Ejemplo de ejecución
-```bash
-$ bash ctf.sh
-Introduce el nombre de la carpeta del CTF (por ejemplo, "dockerlab_ctf_1"):
-dockerlab_ctf_1
-¿Qué tan difícil fue el CTF?
-1. Muy fácil
-2. Fácil
-3. Medio
-4. Difícil
-```
+![inicio-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/inicio-script-ctf.png)
+ingresamos el nombre de la carpeta que en este caso usamos un "carpeta-ejemplo"
+
+
+![dificultad-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/movimiento-crf.png)
+Seleccionamos la dificultad de la maquina que previamente realizamos y listo.
+
+
+![movimiento-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/carpeta-movida-ctf.png)
+Tenemos organizado nuestros CTFs.
+
 
 ### Listo, espero te funcione. Con el tiempo le hare mejoras.
