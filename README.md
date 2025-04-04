@@ -39,7 +39,7 @@ La dificultad del CTF (Muy fácil, Fácil, Medio, Difícil).<br/>
 Las capturas se moverán automáticamente a la carpeta correspondiente dentro de Documentos > Maquinas DockerLabs > la subcarpeta de dificultad.
 
 ## Ejemplo de ejecución
-![inicio-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/inicio-script-ctf.png)
+![inicio-script](https://github.com/xavis3c/Script-CTF/blob/recursos-ctf/inicio-ctf-organizer.png)
 ingresamos el nombre de la carpeta que en este caso usamos un "carpeta-ejemplo"
 
 
