@@ -4,7 +4,7 @@
 ![ctf](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/ctf-organizer-xavi.png)
 
 
-Este script está diseñado para organizar las capturas de pantalla de los CTF que realizas en DockerLabs o la plataforma que desees. El script mueve las capturas desde tu carpeta **Descargas** a **Documentos**, organizándolas en una estructura de carpetas basada en la dificultad de la máquina (Muy fácil, Fácil, Medio, Difícil).
+Este script está diseñado para organizar las capturas de pantalla de los CTF que realizas en DockerLabs o la plataforma que desees. El script mueve las capturas desde tu carpeta **Descargas** a **Documentos**, organizándolas en una estructura de carpetas basada en la dificultad de la máquina (Muy fácil, Fácil, Medio, Difícil). Está pensado para quienes disfrutan compartir su conocimiento a través de writeups o tutoriales, permitiendo tener las capturas ordenadas y listas para subir a cualquier plataforma.
 
 ## ¿Cómo funciona?
 
