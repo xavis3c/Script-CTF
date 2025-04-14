@@ -53,4 +53,4 @@ Seleccionamos la dificultad de la maquina que previamente realizamos y listo.
 Tenemos organizado nuestros CTFs.
 
 
-### Listo, espero te funcione. Con el tiempo le hare mejoras.
+### Listo, espero te funcione. Con el tiempo le hare mejoras
